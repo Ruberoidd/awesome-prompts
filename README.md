@@ -181,6 +181,7 @@ Here is a paper table about advanced prompt engineering:
 People are writing great tools and papers for improving outputs from GPT. Here are some cool ones we've seen:
 
 ## Prompting libraries & tools (in alphabetical order)
+- [AI/ML API](https://aimlapi.com/app/?utm_source=awesome-prompts&utm_medium=github&utm_campaign=integration): AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes.
 - [Chainlit](https://docs.chainlit.io/overview): A Python library for making chatbot interfaces.
 - [Embedchain](https://github.com/embedchain/embedchain): A Python library for managing and syncing unstructured data with LLMs.
 - [FLAML (A Fast Library for Automated Machine Learning & Tuning)](https://microsoft.github.io/FLAML/docs/Getting-Started/): A Python library for automating selection of models, hyperparameters, and other tunable choices.
